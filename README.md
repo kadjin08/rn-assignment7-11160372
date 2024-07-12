@@ -43,8 +43,13 @@ Sets up navigation using DrawerNavigator and StackNavigator.
 
 
 # Images
-![alt text](photo_2024-07-12_23-15-40.jpg)
-![alt text](photo_2024-07-12_23-16-31.jpg)
-![alt text](photo_2024-07-12_23-16-37.jpg)
-![alt text](photo_2024-07-12_23-16-47.jpg)
-![alt text](photo_2024-07-12_23-28-27.jpg)
+![photo_2024-07-12_23-15-40](https://github.com/user-attachments/assets/a15fc0bc-6868-4fe4-9dbc-05dacca878ae)
+![photo_2024-07-12_23-16-31](https://github.com/user-attachments/assets/37ef5231-8265-4bc4-b686-067cd3a3948f)
+![photo_2024-07-12_23-28-27](https://github.com/user-attachments/assets/ec1b7696-6132-45cd-b6e4-22ab2c4a0915)
+![photo_2024-07-12_23-16-37](https://github.com/user-attachments/assets/f2482d14-ba7e-453f-9ef8-e047fd481453)
+![photo_2024-07-12_23-16-47](https://github.com/user-attachments/assets/256b6203-a6eb-42b0-a0a5-6abb440b3578)
+
+
+
+
+
